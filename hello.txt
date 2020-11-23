@@ -1,1 +1,3 @@
 Hello in first line
+
+Second line in file
